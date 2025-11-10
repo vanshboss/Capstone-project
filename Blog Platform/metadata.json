@@ -1,0 +1,5 @@
+{
+  "name": "React Gemini Blog Platform",
+  "description": "A multi-user blogging platform where users can sign up, create profiles, write posts, and comment on other users' posts. The application demonstrates user authentication, content management, and relational data handling, all simulated on the client-side.",
+  "requestFramePermissions": []
+}
